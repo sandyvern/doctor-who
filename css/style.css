@@ -120,3 +120,11 @@ h2 {
     font-family: 'Josefin Sans', sans-serif;
     margin-left: 20px;
 }
+
+.red {
+    color: red;
+}
+
+.github {
+    color: black;
+}
