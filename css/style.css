@@ -8,26 +8,31 @@
 
 /*NAVIGATION*/
 .navbar {
-    backgound-color: ;
+    backgound-color: black;
 }
 
 #navigation {
-    font-size: ;
-    background-color: ;
-    font-family: ;
-    color: ;
+    font-size: 17px;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    color: white;
 
 }
 
 .navbar-brand {
-    margin: ;
+    margin: -25px;
 }
 
 .logo {
-    margin-top: ;
-    max-width: ;
+    margin-top: 0px ;
+    max-width: 10%;
 }
 
+#logo {
+    margin-top: 0px;
+    margin-left: -30px;
+    max-width: 18%;
+}
 
 
 .navbar-nav >li >a {
