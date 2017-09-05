@@ -52,11 +52,13 @@
 
 /*CAROUSEL INNER*/
 #myCarousel {
-
+	
 }
 
 .carousel-inner {
-
+	max-height: 700px;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 #carousel-images {
