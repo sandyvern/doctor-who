@@ -1,16 +1,16 @@
-Notes about open source Doctor Who Project:
+# Notes about this Open Source Doctor Who Project:
 
-This site was created as an open source project for beginners by Faith H. Wallace, aka Code Girl.
+This site was created as an open source project for beginners by __Faith H. Wallace__, aka _Code Girl_.
 
-The blog post about this project can be read here:
+The __blog post__ about this project can be read here: https://codeburst.io/open-source-doctor-who-a666e2ab2d06
 
-To see what the final project should look like, go here:
+To see what the __final project should look like__, go here:
 https://fwallacephd.github.io/whoviangirl/#home
 
 If you want to see the original code, a solution folder is included in this repository with the HTML and CSS codes (but try to write the code on your own first)
 
-To get started:
-1. First, click on the issues tab at the top of the repository.
+## To get started:
+1. First, click on the __issues__ tab at the top of the repository.
 2. Review the issues and choose something to work on.
 3. Fork the respository (click the "Fork" at the top right corner).
 4. Next, download the files and open the index.html and style.css in your text editor.
@@ -21,5 +21,5 @@ To get started:
 
 7. If you want to publish this page and include it in your portfolio, follow the directions here: https://www.youtube.com/watch?v=FiOgz3nKpgk
 
-If you have questions or need help, email Faith at:
+If you have questions or need help, email __Faith__ at:
 whoviangirl09@gmail.com
